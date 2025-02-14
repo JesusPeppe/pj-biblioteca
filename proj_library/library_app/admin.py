@@ -34,3 +34,4 @@ class CustomAdmin(admin.AdminSite):
         
 admin.site = CustomAdmin()   
 '''
+
